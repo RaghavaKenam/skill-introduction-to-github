@@ -1,0 +1,5 @@
+default function sum(){
+return(
+<h1>The React functionality sum of the those numbers</h1>
+)
+}
